@@ -4,11 +4,15 @@
    ```bash
    https://github.com/TomCat-11/License_Plate_Recognition.git
 
-2. Install the requirements.
+2. Requirements:
+   * Install python 3.x in your system
+   * I recommend to use pycharm IDLE
+   * Install following libraries under virtual environment:
+
    ```bash
    pip install opencv-python matplotlib easyocr
 
-3. Download the models weight file.
+4. Download the models weight file.
  
     https://drive.google.com/file/d/1vXjIoRWY0aIpYfhj3TnPUGdmJoHnWaOc/edit
 
